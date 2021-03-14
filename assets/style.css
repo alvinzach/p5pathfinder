@@ -1,0 +1,18 @@
+html,body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    overflow: hidden;
+  }
+
+#playground{
+    width : 100%;
+    height :100%;
+}
+.node{
+  width: 17px;
+  height: 17px;
+}
+.info{
+  border-left:5px solid #0DCAF0 !important;
+}
